@@ -1,0 +1,16 @@
+Trade: Incorrect pop-up when trying to send transaction 
+
+Precondition:
+- From: Stellar
+- To: Polygon
+- Asset: apMATIC
+
+Steps to reproduce:
+1. Log in to the app and open the drawer
+2. Open the “WalletConnect” screen
+3. Tap the "Connect" button 
+4. Enter a valid data in the fields (Address and Amount)
+5. Tap the "Send" button
+
+Actual result: "Transaction Confirmed" pop-up with error text: "Too few valid signatures / wrong network"
+Expected result: "Almost Done" pop-up is displayed
