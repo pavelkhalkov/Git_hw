@@ -1,0 +1,4 @@
+"user_name": "Will Smith"
+"age": 56
+"numbers_of_domestic_animals": 2
+"salary_usd": 8000000
