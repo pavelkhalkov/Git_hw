@@ -1,0 +1,5 @@
+"favorite_movie": "i_am_legend"
+"favorite_tv_series": "scrubs"
+"food": "pasta"
+"season": "summer"
+"country_for_visit": "spain"

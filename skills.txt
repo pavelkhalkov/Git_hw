@@ -1,0 +1,1 @@
+"skills": "programming skills, CI/CD, playwright, api_testing"
