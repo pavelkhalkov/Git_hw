@@ -1,1 +1,10 @@
+Stellar Apps [Research]: There is no redirect when tapping the link inside the web browser
 
+Steps to reproduce:
+1. Login to the app and open the drawer
+2. Tap the "Explore Apps" field
+3. Tap any Aquarius block via the "Connect" button
+4. Scroll via the list and tap the "Audits", "Aquarius docs" buttons in the footer or "View on Explorer" button after a successful transaction
+
+Actual result: There is no redirect when tapping the link
+Expected result: Direct opening of the link in the web browser
