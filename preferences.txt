@@ -1,0 +1,5 @@
+"favorite_movie": 
+"favorite_TV_series":
+"food": "pasta"
+"season": "summer"
+"country_for_visit": "spain"
