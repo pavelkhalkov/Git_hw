@@ -1,0 +1,6 @@
+"firstName": "John"
+"lastName": "Dory"
+"age": 35
+"number_of_pets": 2
+"salary_USD": 300000 
+
